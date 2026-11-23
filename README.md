@@ -53,3 +53,19 @@ Both filters dynamically update dashboard visuals and KPI cards.
 ## Project Purpose
 
 This portfolio project demonstrates the ability to create interactive business intelligence reports and communicate retail sales performance through clear, structured visualizations.
+
+
+## 📂 Dataset Source
+
+**Dataset:** Online Retail  
+**Source:** UCI Machine Learning Repository  
+**Contributor:** Daqing Chen  
+**Records:** 541,909 transaction line items  
+**Period:** December 1, 2010 – December 9, 2011  
+**License:** Creative Commons Attribution 4.0 (CC BY 4.0)
+
+**Original Dataset:** https://archive.ics.uci.edu/dataset/352/online+retail
+
+**DOI:** https://doi.org/10.24432/C5BW33
+
+This project analyzes historical retail transaction data for educational and portfolio purposes. The Power BI dashboard and its visualizations were developed as part of an independent data analytics project.
