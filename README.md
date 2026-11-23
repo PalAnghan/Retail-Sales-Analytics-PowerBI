@@ -1,5 +1,9 @@
 # Retail Sales Analytics Dashboard | Power BI
 
+## Dashboard Preview
+
+![Retail Sales Analytics Dashboard](dashboard-preview.png)
+
 ## Project Overview
 
 An interactive retail sales analytics dashboard developed using Microsoft Power BI to explore sales performance, customer segments, product rankings, and geographical sales distribution.
