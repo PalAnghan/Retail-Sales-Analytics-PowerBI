@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Retail Sales Analytics Dashboard](dashboard-preview.png.jpeg)
+![Retail Sales Analytics Dashboard](dashboard-preview.jpeg)
 
 ## Project Overview
 
